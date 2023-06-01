@@ -28,7 +28,6 @@
 
 <p align="left">I'm Salma, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into iOS Development.</p>
 
-- 💬 &nbsp; Ask me about anything [here](https://github.com/salmaalkashir/salmaalkashir/issues/1)! I am happy to help.
 - 📫 &nbsp; How to reach me: salkashir@gmail.com
 ###
 
